@@ -1,0 +1,16 @@
+
+
+    .active{
+          padding: 10px;
+          margin: 20px;
+          text-decoration: none;
+}
+.img{
+    display: grid;
+    justify-content: end; 
+    align-items: center;
+}
+.text{
+      display: inline-flex;
+         height: 100px;
+}
